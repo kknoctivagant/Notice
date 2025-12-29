@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Security Notice</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #0b0b0b;
+      color: #ff4d4d;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    .box {
+      border: 2px solid red;
+      padding: 25px;
+      border-radius: 10px;
+    }
+    h1 {
+      color: red;
+    }
+    p {
+      color: #ffffff;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>⚠️ SECURITY ALERT</h1>
+    <p>This number has been reported for suspicious activity.</p>
+    <p>Details may be shared with Cyber Crime authorities.</p>
+    <p><strong>Do not request personal or banking information.</strong></p>
+    <p>Further contact may lead to legal action.</p>
+  </div>
+</body>
+</html>
